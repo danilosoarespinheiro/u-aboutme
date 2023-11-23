@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="about_me_name">Your Name</string>
+    <string name="yellow_star_content_description">Yellow Star</string>
+    <string name="bio">Hi, my name is Danilo.
+    \n\nI love to learn new technologies
+    \n\nSometimes I just start learning things that I don\'t know if I gonna use, but is fun to
+        understand how things work, even if you not gonna use it.
+    \n\nThis might be a problem because learn takes times, and sometimes I fell like I should be
+        using this time to learn something useful to my stack, but this is something that I should
+        improve in my career.
+    </string>
+</resources>
